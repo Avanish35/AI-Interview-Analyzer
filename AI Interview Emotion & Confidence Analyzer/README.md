@@ -80,7 +80,7 @@ AI-Interview-Emotion-Analyzer/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/AI-Interview-Emotion-Analyzer.git
+git clone https://github.com/avanish35/AI-Interview-Analyzer.git
 ```
 
 ### Navigate to Project
